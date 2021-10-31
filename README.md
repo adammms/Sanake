@@ -1,2 +1,2 @@
-# Sanake
+# Snake Game
 Project Sederhana
